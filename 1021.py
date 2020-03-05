@@ -5,3 +5,4 @@ print(str(input()))
 a = input()
 x = str(a)
 print(x)
+
