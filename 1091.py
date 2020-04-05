@@ -9,4 +9,3 @@ for i in range(d):
     li.append(a)
 
 print(li[d-1])
-    
