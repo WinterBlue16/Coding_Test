@@ -33,4 +33,3 @@ print(queue)
 print(queue) # 그대로 출력
 queue.reverse()
 print(queue) # 가장 최근에 들어온 값부터 출력
-

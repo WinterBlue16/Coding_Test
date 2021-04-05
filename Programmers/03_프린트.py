@@ -21,6 +21,8 @@ def solution(priorities, location):
 
     return count
 
+# 처음엔 dictionary를 쓰려고 했으나 안됨(중복 key는 class를 따로 설정하지 않으면 자동으로 제거)
+
 
 # 원래 풀려고 했던 코드
 # from collections import deque
